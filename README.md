@@ -11,7 +11,7 @@ The **Emergency Contact Macro** app is designed to assist users in quickly conta
 - **Notification Interface**: Provides an easy-to-use notification to stop location sharing, stop audio recording, and send a "I’m safe now" message.
 
 ## Prerequisites
-- Android device with **Android 8.0 (Oreo)** or higher.
+- Android device with **Android 5.1** or higher.
 - Permissions for **SMS**, **Phone Call**, **Location**, and **Microphone** must be granted.
 - Active mobile network for calls, SMS, and location sharing.
 
@@ -19,4 +19,4 @@ The **Emergency Contact Macro** app is designed to assist users in quickly conta
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/emergency-contact-macro.git
+git clone https://github.com/Tanmay692004/CallEm.git
