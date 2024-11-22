@@ -25,9 +25,9 @@ import kotlinx.coroutines.launch
 
 class MainActivity : ComponentActivity() {
 
-    private val emergencyNumber = "tel:+918585901862" // Replace with your number
+    private val emergencyNumber = "tel:+919999999999" // to be replaced
     private val emergencyContacts = listOf(
-        "+918585901862", // Replace with real emergency contacts
+        "+918888888888", // To Be Replaced with real emergency contacts
         "+9101125532553",
         "+919999999999"
     )
